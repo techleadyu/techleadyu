@@ -39,53 +39,80 @@ My core belief: **cloud security and cloud delivery are not separate disciplines
 
 ---
 
-## 🛠️ Tools & Domains I Work Across
+## 🛠️ Tools & Tech Stack
 
 ### ☁️ Cloud Platforms
 
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20Partner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure" height="48" alt="Microsoft Azure" title="Microsoft Azure"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS" title="AWS Partner"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" height="32" alt="Microsoft 365"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="32" alt="Microsoft Fabric"/>
+</p>
 
 ### 🔒 Security & Compliance
 
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Defender XDR](https://img.shields.io/badge/Defender%20XDR-00B4D8?style=for-the-badge&logo=microsoft&logoColor=white)
-![Microsoft Purview](https://img.shields.io/badge/Microsoft%20Purview-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Entra%20ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Zero Trust](https://img.shields.io/badge/Zero%20Trust-E74C3C?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-E74C3C?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Intune](https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Defender%20XDR-00B4D8?style=for-the-badge&logo=microsoft&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Purview-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Entra%20ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Zero%20Trust-E74C3C?style=for-the-badge&logo=microsoftazure&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-E74C3C?style=for-the-badge&logo=microsoftazure&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="32"/>
+</p>
 
 ### ⚙️ DevSecOps & IaC
 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/AKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=terraform" height="48" alt="Terraform" title="Terraform"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker" title="Docker"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="48" alt="Kubernetes / AKS" title="Kubernetes / AKS"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" title="GitHub"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=githubactions" height="48" alt="GitHub Actions" title="GitHub Actions"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" height="32"/>
+</p>
 
 ### 🤖 Agentic AI & MCP
 
-![MCP Servers](https://img.shields.io/badge/MCP%20Servers-D83B01?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Agent 365](https://img.shields.io/badge/Agent%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Copilot](https://img.shields.io/badge/Microsoft%20Copilot-7B42BC?style=for-the-badge&logo=microsoft&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/MCP%20Servers-D83B01?style=for-the-badge&logo=microsoftazure&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Agent%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Copilot-7B42BC?style=for-the-badge&logo=microsoft&logoColor=white" height="32"/>
+</p>
 
 ### 📊 Data & Analytics
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![KQL](https://img.shields.io/badge/Kusto%20KQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="32"/>
+  <img src="https://img.shields.io/badge/Kusto%20KQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="32"/>
+</p>
 
 ### 💻 Languages & Scripting
 
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=powershell" height="48" alt="PowerShell" title="PowerShell"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" title="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bash" height="48" alt="Bash" title="Bash"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=yaml" height="48" alt="YAML" title="YAML"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=markdown" height="48" alt="Markdown" title="Markdown"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code" title="VS Code"/>
+</p>
 
 ---
 
@@ -126,10 +153,10 @@ My core belief: **cloud security and cloud delivery are not separate disciplines
 
 ## 🚀 Key Projects
 
-### 🔵 Microsoft Purview — Enterprise data governance · HRIPL
-First-of-kind Purview + Microsoft Fabric governance program covering **9 departmental data domains** (Sales/MIS, Finance Commercial, Finance FP&A, HR, Ecommerce, Supply Chain, Marketing, IT, Admin). Designed scan rules per workspace, sensitivity label taxonomy, classification framework, DLP policies, and executive-level replication strategy across **16 existing Fabric tenants**.
+### 🔵 Microsoft Purview on Fabric — Enterprise data governance
+First-of-kind Purview + Microsoft Fabric governance program covering **departmental data domains**. Designed scan rules per workspace, sensitivity label taxonomy, classification framework, DLP policies, and executive-level replication strategy across **existing Fabric tenants**.
 
-### 🔴 Azure Network Security Architecture · Theobroma Foods
+### 🔴 Azure Network Security Architecture
 Authored a comprehensive enterprise network security proposal comparing:
 - **Option A:** Application Gateway WAF v2 + Azure Firewall Premium
 - **Option B:** Azure Front Door WAF v2 + Azure Firewall Premium
@@ -137,7 +164,7 @@ Authored a comprehensive enterprise network security proposal comparing:
 ### 🟣 Microsoft Sentinel SIEM/SOAR Implementations
 End-to-end Sentinel deployments including analytics rules, playbook automation, SOAR workflows, MDR integration, and SOC II / CIS compliance alignment across enterprise client environments.
 
-### 🟣 Microsoft Purview DLP · Alembic Pharmaceuticals
+### 🟣 Microsoft Purview DLP
 Configured molecule-based **custom sensitive information types** and complex multi-condition outbound email DLP policies with team-specific domain exception rules across a regulated pharmaceutical M365 tenant.
 
 ### 🟠 Terraform IaC · Azure Production Infrastructure
@@ -145,13 +172,10 @@ Built a reusable Terraform module library:
 `vnet` · `aks` · `nat-gateway` · `log-analytics` · `app-insights` · `monitoring` · `redis-enterprise` · `vnet-peering` · `acr`
 
 ### 🤖 Agentic AI & MCP Server Development
-Developed MCP servers for **Azure**, **Microsoft Sentinel**, and **GitHub (VS Code)**. Built **Agent 365** and custom AI agents for Microsoft 365 environments. Actively exploring real-time enterprise AI scenarios with Model Context Protocol.
+Developed MCP servers for **Azure**, **Microsoft Sentinel**, and **GitHub (VS Code)**. Built **Agent 365** and custom AI agents for Microsoft 365 environments.
 
-### 🟢 Kubernetes on Azure · AEMSP Advanced Specialization Audit
-Led audit readiness for the **Kubernetes on Azure Advanced Specialization** under AEMSP V2 Program Guide (Module 3.1). Achieved Module A waiver and structured a complete evidence framework across all control domains.
-
-### ⚫ Azure Migration & Modernization Projects
-Small, mid-market, and enterprise-level Azure migrations including tenant-to-tenant resource migrations, workload transitions, app modernization using containerization, orchestration, and microservices architecture.
+### 🟢 Kubernetes on Azure · Advanced Specialization Audit
+Led audit readiness for the **Kubernetes on Azure Advanced Specialization** under AEMSP V2 Program Guide (Module 3.1). Achieved Module A waiver and structured a complete evidence framework.
 
 ---
 
@@ -164,17 +188,17 @@ Small, mid-market, and enterprise-level Azure migrations including tenant-to-ten
 ### Core Values
 
 - 🔐 **Security-first** — Every architecture decision is a security decision
-- 🎯 **Outcome-driven** — Delivery that maps to client business goals, not just technical checkboxes
+- 🎯 **Outcome-driven** — Delivery that maps to client business goals
 - 📖 **Depth over breadth** — Go deep on the Microsoft stack; master the nuance
-- 🤝 **Clear communication** — Bridge CXO-level clarity and engineering precision
+- 🤝 **Clear communication** — CXO-level clarity meets engineering precision
 
 </td>
 <td valign="top" width="50%">
 
 ### How I Work
 
-- 📐 **Architecture first** — Draw before you deploy; design before you implement
-- 🔄 **Iterative delivery** — Proposals → pilots → production; never big-bang
+- 📐 **Architecture first** — Draw before you deploy
+- 🔄 **Iterative delivery** — Proposals → pilots → production
 - 📋 **Documentation** — Every engagement leaves a knowledge trail
 - 🤖 **Pragmatic about AI** — Amplify delivery, not replace judgment
 
@@ -184,43 +208,15 @@ Small, mid-market, and enterprise-level Azure migrations including tenant-to-ten
 
 ---
 
-## 📚 Beyond Work
-
-- 🤖 **Agentic AI & MCP** — Building enterprise AI agents with Model Context Protocol for Azure & M365
-- 📜 **Continuous certification** — Always working toward the next Microsoft credential
-- ✍️ **Knowledge sharing** — Creating Azure reference content and technical guides for LinkedIn
-- 🌐 **Partner ecosystem** — Tracking Microsoft AEMSP and Advanced Specialization program developments
-- 💬 **Community** — Discussing cloud security, Zero Trust, and AI-native infrastructure with peers
-
----
-
-## 🤔 Why Work With Me?
-
-![Security-First](https://img.shields.io/badge/Security--First-0078D4?style=flat-square)
-![Azure Expert MSP](https://img.shields.io/badge/Azure%20Expert%20MSP-0078D4?style=flat-square)
-![12x Microsoft Certified](https://img.shields.io/badge/12x%20Microsoft%20Certified-7B42BC?style=flat-square)
-![Zero Trust Practitioner](https://img.shields.io/badge/Zero%20Trust%20Practitioner-E74C3C?style=flat-square)
-![DevSecOps](https://img.shields.io/badge/DevSecOps-2088FF?style=flat-square)
-![Agentic AI Builder](https://img.shields.io/badge/Agentic%20AI%20Builder-D83B01?style=flat-square)
-![MCP Server Dev](https://img.shields.io/badge/MCP%20Server%20Dev-7B42BC?style=flat-square)
-
-- **Full-lifecycle delivery** — From SOW and proposal to production implementation and client handover
-- **Regulated industry experience** — Pharmaceutical (Alembic), FMCG (Theobroma), enterprise (HRIPL, Navya Agro)
-- **Security + Compliance depth** — SC-200, SC-300, SC-400, SC-401, MS-500 plus Purview, Sentinel, Defender hands-on
-- **AEMSP Partner-aligned** — Audit readiness, advanced specializations, Microsoft partner delivery standards
-- **Communication that scales** — CXO briefing level to engineering deep-dive, both written and verbal
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=0078D4&icon_color=0078D4)
+<img src="https://github-readme-stats.vercel.app/api?username=techleadyu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=0078D4&icon_color=0078D4" alt="GitHub Stats"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=0078D4)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techleadyu&layout=compact&theme=tokyonight&hide_border=true&title_color=0078D4" alt="Top Languages"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&ring=0078D4&fire=D83B01&currStreakLabel=0078D4)
+<img src="https://streak-stats.demolab.com?user=techleadyu&theme=tokyonight&hide_border=true&ring=0078D4&fire=D83B01&currStreakLabel=0078D4" alt="GitHub Streak"/>
 
 </div>
 
@@ -230,11 +226,21 @@ Small, mid-market, and enterprise-level Azure migrations including tenant-to-ten
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-techyashupadhyay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/techyashupadhyay)
-[![Email](https://img.shields.io/badge/Gmail-yashupadhyay154%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashupadhyay154@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+<a href="https://linkedin.com/in/techyashupadhyay">
+  <img src="https://img.shields.io/badge/LinkedIn-techyashupadhyay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:techlead.yashu@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-techlead.yashu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+&nbsp;
+<a href="https://github.com/techleadyu">
+  <img src="https://img.shields.io/badge/GitHub-techleadyu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=0078D4&style=flat-square&label=Profile+Views)
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=techleadyu&color=0078D4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -246,9 +252,20 @@ Small, mid-market, and enterprise-level Azure migrations including tenant-to-ten
 
 I love chatting about **Azure Architecture**, **Microsoft Security**, **Zero Trust**, **Cloud Governance**, **DevSecOps**, and **Agentic AI**.
 
-**[LET'S CONNECT ON LINKEDIN →](https://linkedin.com/in/techyashupadhyay)**
+<br/>
+
+<a href="https://linkedin.com/in/techyashupadhyay">
+  <img src="https://img.shields.io/badge/LET'S%20CONNECT%20ON%20LINKEDIN-%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+
+<br/><br/>
+
+> 💌 Happy to discuss Azure architecture, cloud security, or just chat about tech!
+> 
+> ⭐ If you find my work interesting, consider starring my repositories!
+
+<br/>
 
 <sub>Based in Ahmedabad, India · 5+ years in Microsoft cloud delivery · Open to global opportunities · Views expressed are personal</sub>
 
 </div>
-# techyashupadhyay
