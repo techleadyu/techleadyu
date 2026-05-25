@@ -222,20 +222,18 @@ My core belief: **cloud security and cloud delivery are not separate disciplines
 
 <div align="center">
 
-<a href="https://linkedin.com/in/techyashupadhyay">
-  <img src="https://img.shields.io/badge/LinkedIn-techyashupadhyay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://linkedin.com/in/techyashupadhyay" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="48" width="48" alt="LinkedIn"/>
 </a>
-&nbsp;
-<a href="mailto:techlead.yashu@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-techlead.yashu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:techlead.yashu@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="48" width="48" alt="Gmail"/>
 </a>
-&nbsp;
-<a href="https://github.com/techleadyu">
-  <img src="https://img.shields.io/badge/GitHub-techleadyu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/techleadyu" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" width="48" alt="GitHub"/>
 </a>
-
-&nbsp;
-
+<br/><br/>
 <img src="https://komarev.com/ghpvc/?username=techleadyu&color=0078D4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
@@ -249,13 +247,10 @@ My core belief: **cloud security and cloud delivery are not separate disciplines
 I love chatting about **Azure Architecture**, , **Microsoft 365 services & products**, **Microsoft Security & Compliance**, **Zero Trust**, **Cloud Governance**, **DevSecOps**, and **Agentic AI**.
 
 <br/>
-
-<a href="https://linkedin.com/in/techyashupadhyay">
-  <img src="https://img.shields.io/badge/LET'S%20CONNECT%20ON%20LINKEDIN-%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+<a href="https://linkedin.com/in/techyashupadhyay" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="48" width="48" alt="LinkedIn"/>
 </a>
-
 <br/><br/>
-
 > 💌 Happy to discuss Azure & M365, cloud security, or just chat about tech!
 > 
 > ⭐ If you find my work interesting, consider starring my repositories!
