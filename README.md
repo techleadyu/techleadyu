@@ -2,15 +2,15 @@
 
 # Hey there! 👋 I'm Yash Upadhyay
 
-### Senior Microsoft Cloud Engineer · Azure Expert MSP · DevSecOps · Agentic AI
+### Microsoft Cloud Engineer
 
-📍 Ahmedabad, India &nbsp;|&nbsp; 🇮🇳 &nbsp;|&nbsp; 💼 [atQor — Azure Expert MSP](https://atqor.com)
+📍 Ahmedabad, India &nbsp;
 
 </div>
 
 ---
 
-I'm a Senior Cloud & Security Engineer at **atQor** — an **Azure Expert MSP (AEMSP)** — with **5+ years** of progressive experience delivering enterprise-grade Microsoft cloud solutions across Azure, M365, and the Microsoft security stack. I work across the full engagement lifecycle — from pre-sales SOW and proposals through deep technical implementation, compliance audits, and long-term governance.
+I'm a Senior Microsoft Engineer at **MNC** — with **5+ years** of progressive experience delivering enterprise-grade Microsoft cloud solutions across Azure, M365, and the Microsoft security stack. I work across the full engagement lifecycle — from pre-sales SOW and proposals through deep technical implementation, compliance audits, and long-term governance.
 
 My core belief: **cloud security and cloud delivery are not separate disciplines** — they should be engineered together from day one.
 
@@ -33,7 +33,7 @@ My core belief: **cloud security and cloud delivery are not separate disciplines
 - **Cloud Architecture & Networking** — Azure Landing Zones, hub-spoke networking, hybrid connectivity (ExpressRoute, VPN), WAF, Azure Firewall Premium, Application Gateway, Front Door, AKS
 - **Security Engineering** — Microsoft Sentinel (SIEM/SOAR/MDR), Defender XDR, Entra ID, Conditional Access, PIM, MFA, Zero Trust, SOC II & CIS compliance
 - **Data Governance & Compliance** — Microsoft Purview data catalog, sensitivity labels, DLP policies, Fabric workspace governance, SQL DB information protection
-- **DevSecOps & IaC** — Terraform, CI/CD pipelines, GitHub Actions, Docker, AKS, application modernization, microservices & containerization
+- **DevSecOps & IaC** — Terraform, CI/CD pipelines, GitHub Actions, Docker, AKS, Application modernization, Microservices & containerization
 - **Endpoint & Workplace** — Microsoft Intune, MDM/MAM, Autopilot, M365 administration, Exchange Online, Teams, Microsoft Fabric
 - **Agentic AI & MCP Servers** — MCP server development for Azure/Sentinel/GitHub (VS Code), Agent 365, custom M365 AI agents, real-time enterprise AI scenarios
 
@@ -49,8 +49,7 @@ My core belief: **cloud security and cloud delivery are not separate disciplines
   <img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS" title="AWS Partner"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" height="32" alt="Microsoft 365"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="32" alt="Microsoft Fabric"/>
+  
 </p>
 
 ### 🔒 Security & Compliance
@@ -78,7 +77,8 @@ My core belief: **cloud security and cloud delivery are not separate disciplines
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=githubactions" height="48" alt="GitHub Actions" title="GitHub Actions"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="48" alt="Azure DevOps"/>
+  
 </p>
 
 ### 🤖 Agentic AI & MCP
@@ -93,7 +93,6 @@ My core belief: **cloud security and cloud delivery are not separate disciplines
 ### 📊 Data & Analytics
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="32"/>
   <img src="https://img.shields.io/badge/Kusto%20KQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="32"/>
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="32"/>
 </p>
@@ -105,13 +104,13 @@ My core belief: **cloud security and cloud delivery are not separate disciplines
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" title="Python"/>
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bash" height="48" alt="Bash" title="Bash"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=yaml" height="48" alt="YAML" title="YAML"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=markdown" height="48" alt="Markdown" title="Markdown"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" height="48" alt="YAML"/>
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code" title="VS Code"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" height="48" alt="VS Code" title="Linux"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=markdown" height="48" alt="Markdown" title="Markdown"/>
 </p>
 
 ---
@@ -151,31 +150,29 @@ My core belief: **cloud security and cloud delivery are not separate disciplines
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Key Projects & Engagements
 
 ### 🔵 Microsoft Purview on Fabric — Enterprise data governance
-First-of-kind Purview + Microsoft Fabric governance program covering **departmental data domains**. Designed scan rules per workspace, sensitivity label taxonomy, classification framework, DLP policies, and executive-level replication strategy across **existing Fabric tenants**.
 
-### 🔴 Azure Network Security Architecture
-Authored a comprehensive enterprise network security proposal comparing:
-- **Option A:** Application Gateway WAF v2 + Azure Firewall Premium
-- **Option B:** Azure Front Door WAF v2 + Azure Firewall Premium
+### 🔴 Azure Network Security Architecture — WAF & Firewall design
 
-### 🟣 Microsoft Sentinel SIEM/SOAR Implementations
-End-to-end Sentinel deployments including analytics rules, playbook automation, SOAR workflows, MDR integration, and SOC II / CIS compliance alignment across enterprise client environments.
+### 🟣 Microsoft Sentinel SIEM/SOAR — End-to-end SOC implementations
 
-### 🟣 Microsoft Purview DLP
-Configured molecule-based **custom sensitive information types** and complex multi-condition outbound email DLP policies with team-specific domain exception rules across a regulated pharmaceutical M365 tenant.
+### 🟣 Microsoft Purview DLP — Pharmaceutical regulated environment
 
-### 🟠 Terraform IaC · Azure Production Infrastructure
-Built a reusable Terraform module library:
-`vnet` · `aks` · `nat-gateway` · `log-analytics` · `app-insights` · `monitoring` · `redis-enterprise` · `vnet-peering` · `acr`
+### 🟠 Terraform IaC — Azure production infrastructure module library
 
-### 🤖 Agentic AI & MCP Server Development
-Developed MCP servers for **Azure**, **Microsoft Sentinel**, and **GitHub (VS Code)**. Built **Agent 365** and custom AI agents for Microsoft 365 environments.
+### 🤖 Agentic AI & MCP Server Development — Azure, Sentinel, GitHub, Agent 365
 
-### 🟢 Kubernetes on Azure · Advanced Specialization Audit
-Led audit readiness for the **Kubernetes on Azure Advanced Specialization** under AEMSP V2 Program Guide (Module 3.1). Achieved Module A waiver and structured a complete evidence framework.
+### 🟢 Kubernetes on Azure — Advanced Specialization audit
+
+### 🏅 Azure Expert MSP (AEMSP) Audit — Compliance validation & evidence framework
+
+### 📋 Microsoft Partner Center — Advanced Specializations & APIs
+
+### 🤝 Pre-sales engagement
+
+### 🎓 Microsoft Advanced Specialization Audits - Many more
 
 ---
 
@@ -212,11 +209,13 @@ Led audit readiness for the **Kubernetes on Azure Advanced Specialization** unde
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=techleadyu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=0078D4&icon_color=0078D4" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=techleadyu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=0078D4&icon_color=0078D4&bg_color=0d1117" width="49%" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techleadyu&layout=compact&theme=tokyonight&hide_border=true&title_color=0078D4&bg_color=0d1117&langs_count=8" width="49%" alt="Top Languages"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techleadyu&layout=compact&theme=tokyonight&hide_border=true&title_color=0078D4" alt="Top Languages"/>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=techleadyu&theme=tokyonight&hide_border=true&ring=0078D4&fire=D83B01&currStreakLabel=0078D4" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=techleadyu&theme=tokyonight&hide_border=true&ring=0078D4&fire=D83B01&currStreakLabel=0078D4&background=0d1117" width="70%" alt="GitHub Streak"/>
 
 </div>
 
@@ -238,7 +237,7 @@ Led audit readiness for the **Kubernetes on Azure Advanced Specialization** unde
   <img src="https://img.shields.io/badge/GitHub-techleadyu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<br/><br/>
+&nbsp;
 
 <img src="https://komarev.com/ghpvc/?username=techleadyu&color=0078D4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
@@ -250,7 +249,7 @@ Led audit readiness for the **Kubernetes on Azure Advanced Specialization** unde
 
 ### 💬 Always Open to Great Conversations
 
-I love chatting about **Azure Architecture**, **Microsoft Security**, **Zero Trust**, **Cloud Governance**, **DevSecOps**, and **Agentic AI**.
+I love chatting about **Azure Architecture**, , **Microsoft 365 services & products**, **Microsoft Security & Compliance**, **Zero Trust**, **Cloud Governance**, **DevSecOps**, and **Agentic AI**.
 
 <br/>
 
@@ -260,12 +259,12 @@ I love chatting about **Azure Architecture**, **Microsoft Security**, **Zero Tru
 
 <br/><br/>
 
-> 💌 Happy to discuss Azure architecture, cloud security, or just chat about tech!
+> 💌 Happy to discuss Azure & M365, cloud security, or just chat about tech!
 > 
 > ⭐ If you find my work interesting, consider starring my repositories!
 
 <br/>
 
-<sub>Based in Ahmedabad, India · 5+ years in Microsoft cloud delivery · Open to global opportunities · Views expressed are personal</sub>
+<sub>Based in India · 5+ years in Microsoft cloud delivery · Open to global opportunities · Views expressed are personal</sub>
 
 </div>
